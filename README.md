@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer with a background in multiple programming languages. In the past, I have studied Dart, Java, and Kotlin, which gave me valuable experience in mobile and application development. Currently, I am focusing on Python as my primary programming language, as I find it powerful, versatile, and suitable for a wide range of projects. My goal is to continue improving my skills and building efficient, reliable, and innovative software solutions.
+I am a Website Development with a background in multiple programming languages. In the past, I have studied Dart, Java, and Kotlin, which gave me valuable experience in mobile and application development. Currently, I am focusing on Python as my primary programming language, as I find it powerful, versatile, and suitable for a wide range of projects. My goal is to continue improving my skills and building efficient, reliable, and innovative software solutions.
 
 
 ## 🌐 Socials:
