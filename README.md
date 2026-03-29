@@ -1,49 +1,181 @@
-<h1 align="center">Hi 👋, I'm Andi</h1>
-<h3 align="center">Passionate about building scalable web, mobile, and desktop applications. Coding since 8th grade and always exploring new technologies!</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮  ANDI — DEVELOPER RPG PROFILE  🎮                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anfariq&label=Profile%20views&color=0e75b6&style=flat" alt="anfariq" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfariq" alt="anfariq" /></a> </p>
+```
+╔══════════════════════════════════════════════════════════╗
+║  ⚔️  DEVELOPER PROFILE  ·  ANDI FARIQ  ·  LVL. 99  ⚔️   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=CTO+%26+System+Architect;Full-Stack+Engineer+%7C+Lvl.+99;Building+systems+that+scale+%F0%9F%9A%80;Loading+next+achievement...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Leading tech initiatives at Devitra.id and developing "Komi**
+</div>
 
-- 🌱 I’m currently learning **Advanced server administration (Debian 13) and Cybersecurity**
+---
 
-- 👯 I’m looking to collaborate on **Komi Comic Platform**
+<div align="center">
 
-- 🤝 I’m looking for help with **Exploring Cybersecurity or Python Web Scraping**
+## 🧙 CHARACTER SHEET
 
-- 👨‍💻 All of my projects are available at [https://andi.devitra.id](https://andi.devitra.id)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  CLASS  │  CTO · Architect · Full-Stack Engineer             │
+│  GUILD  │  Devitra.id                                        │
+│  QUEST  │  Building Komi — Comic Platform 🚀                │
+│  SKILL  │  Node · Next.js · React · Laravel · Python         │
+│  BASE   │  Surabaya, Indonesia 🌏                           │
+│  XP     │  Started coding since 8th grade 📟                │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 📝 I regularly write articles on [https://dev.to/anfariq](https://dev.to/anfariq)
+</div>
 
-- 💬 Ask me about **Node.js, Next Js, React, React Native, PHP, Laravel, Figma, Flutter, Java, Kotlin, Python or home server setups!**
+---
 
-- 📫 How to reach me **fariqputrapratamaandicha@gmail.com**
+## ⚔️ STAT SHEET
 
-- 📄 Know about my experiences [https://linkedin.com/in/andifariq](https://linkedin.com/in/andifariq)
+<div align="center">
 
-- ⚡ Fun fact **When I'm not writing code or managing servers, I write historical fantasy novels!**
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  STR  [BACKEND]     ████████████████████  95 / 100              │
+│  INT  [SYSTEM ARQ]  ███████████████████░  92 / 100              │
+│  DEX  [FRONTEND]    ██████████████████░░  88 / 100              │
+│  WIS  [DEVOPS]      █████████████████░░░  84 / 100              │
+│  CHA  [COLLAB]      ████████████████████  99 / 100              │
+│  LCK  [CYBERSEC] *  ████████████████░░░░  learning...           │
+└──────────────────────────────────────────────────────────────────┘
+     * Currently grinding Cybersecurity & Debian 13 skills!
+```
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anfariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anfariq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andifariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andifariq" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31582005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31582005" height="30" width="40" /></a>
-<a href="https://instagram.com/fa_2yq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fa_2yq" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## ⚙️ EQUIPPED SKILLS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anfariq&show_icons=true&locale=en&layout=compact" alt="anfariq" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anfariq&show_icons=true&locale=en" alt="anfariq" /></p>
+### ⚡ CORE ABILITIES
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=02569B)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anfariq&" alt="anfariq" /></p>
+### 🗄️ DATABASE ARSENAL
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### 🖥️ DEVOPS SPELLS
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+![Jenkins](https://img.shields.io/badge/Jenkins-1a1a2e?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+
+### 🎨 CRAFT TOOLS
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/Sass-1a1a2e?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a2e?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT BOARD
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🏆  UNLOCKED ACHIEVEMENTS                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🥇  [PRODIGY]       Started coding in 8th grade                ║
+║  🏗️  [ARCHITECT]     Built scalable web & mobile platforms       ║
+║  👑  [GUILD MASTER]  Became CTO at Devitra.id                   ║
+║  📱  [MULTICLASS]    Mastered Web + Mobile + Desktop             ║
+║  🕷️  [SPIDER]        Expert in scraping systems                  ║
+║  ✍️  [LORE KEEPER]   Writes historical fantasy novels            ║
+║  🚀  [BUILDER]       Shipping Komi — Comic Platform              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                    🔒  ACHIEVEMENTS IN PROGRESS                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🛡️  [SHADOW GUARD]  Cybersecurity Specialist       [░░░░  15%] ║
+║  🐧  [OVERLORD]      Debian 13 Server Admin         [██░░  40%] ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 BATTLE STATISTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anfariq&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=anfariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## 🌐 GUILD PORTALS
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/⚔️_Portfolio-andi.devitra.id-00ff41?style=for-the-badge&labelColor=0d1117)](https://andi.devitra.id)
+[![LinkedIn](https://img.shields.io/badge/🛡️_LinkedIn-Andi_Fariq-0077B5?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/andifariq)
+[![Dev.to](https://img.shields.io/badge/📜_Dev.to-anfariq-white?style=for-the-badge&labelColor=0d1117)](https://dev.to/anfariq)
+[![Stack Overflow](https://img.shields.io/badge/🔮_Stack_Overflow-31582005-F58025?style=for-the-badge&labelColor=0d1117)](https://stackoverflow.com/users/31582005)
+[![Instagram](https://img.shields.io/badge/🗺️_Instagram-fa__2yq-E4405F?style=for-the-badge&labelColor=0d1117)](https://instagram.com/fa_2yq)
+[![Email](https://img.shields.io/badge/📨_Send_Message-Quest_Mail-ff6b35?style=for-the-badge&labelColor=0d1117)](mailto:fariqputrapratamaandicha@gmail.com)
+
+</div>
+
+---
+
+## 👾 VISITOR COUNTER
+
+<div align="center">
+
+```
+ ┌────────────────────────────────┐
+ │  🧙 ADVENTURERS VISITED:       │
+ └────────────────────────────────┘
+```
+
+![Visitors](https://komarev.com/ghpvc/?username=anfariq&label=Adventurers+Visited&color=00ff41&style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   💬  "The code is the dungeon. I am the architect."        ║
+║                                                              ║
+║             ⭐  FROM ANDI — BUILDING SYSTEMS THAT SCALE     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
